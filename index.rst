@@ -25,7 +25,7 @@ Il calendario è visibile al link:
 
 :: 
 
-   \ |LINK1|\ 
+   http://www.sito-ente.it/eventi 
 
 L'associazione, utilizzando le credenziali fornite dall’Ente (login, password), può accedere al sistema attraverso il pulsante ACCEDI (in alto a destra).
 
@@ -162,7 +162,7 @@ Aderendo all’iniziativa, l’associazione dichiara di applicare una licenza Cr
 
 contenuti inseriti nel calendario (testi ed immagini), pertanto deve assicurarsi di essere il titolare del contenuto o che il titolare del contenuto (es. fotografo) applichi questa stessa licenza ai propri contenuti. Questo favorirà tutte le azioni di diffusione degli eventi che l’Ente si impegna ad effettuare con questo progetto, avvalendosi del paradigma Open Data (ad esempio, pubblicando gli eventi su altri portali istituzionali, locali ed internazionali). 
 
-Maggiori informazioni sulle licenze Creative Commons sono reperibili sul sito: \ |LINK2|\  
+Maggiori informazioni sulle licenze Creative Commons sono reperibili sul sito: \ |LINK1|\  
 
 ---
 
@@ -172,7 +172,7 @@ Ultimo aggiornamento: 26/4/2017
 
 \ |IMG9|\ 
 
-OpenAgenda è una soluzione applicativa di OpenContent \ |LINK3|\  
+OpenAgenda è una soluzione applicativa di OpenContent \ |LINK2|\  
 
 .. bottom of content
 
@@ -222,13 +222,9 @@ OpenAgenda è una soluzione applicativa di OpenContent \ |LINK3|\
 
 .. |LINK1| raw:: html
 
-    <a href="http://www.sito-ente.it/eventi" target="_blank">http://www.sito-ente.it/eventi</a>
-
-.. |LINK2| raw:: html
-
     <a href="http://creativecommons.it/Licenze" target="_blank">http://creativecommons.it/Licenze</a>
 
-.. |LINK3| raw:: html
+.. |LINK2| raw:: html
 
     <a href="https://www.opencontent.it/Per-la-PA/OpenAgenda" target="_blank">https://www.opencontent.it/Per-la-PA/OpenAgenda</a>
 
