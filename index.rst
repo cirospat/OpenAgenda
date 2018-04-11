@@ -166,7 +166,9 @@ Maggiori informazioni sulle licenze Creative Commons sono reperibili sul sito: \
 
 Ultimo aggiornamento: 26/4/2017
 
----
+--------
+
+\ |IMG9|\ 
 
 OpenAgenda è una soluzione applicativa di OpenContent \ |LINK3|\  
 
@@ -260,3 +262,7 @@ OpenAgenda è una soluzione applicativa di OpenContent \ |LINK3|\
 .. |IMG8| image:: static/index_8.png
    :height: 164 px
    :width: 470 px
+
+.. |IMG9| image:: static/index_9.png
+   :height: 98 px
+   :width: 314 px
