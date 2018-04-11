@@ -23,7 +23,9 @@ Modalità di accesso
 
 Il calendario è visibile al link: 
 
-\ |LINK1|\ . 
+:: 
+
+   \ |LINK1|\ 
 
 L'associazione, utilizzando le credenziali fornite dall’Ente (login, password), può accedere al sistema attraverso il pulsante ACCEDI (in alto a destra).
 
