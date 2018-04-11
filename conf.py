@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Manuale d'uso di OpenAgenda'
+project = 'Manuale uso di OpenAgenda'
 copyright = '[licenza CC - BY OpenContent - SA]'
 
 # The name of the Pygments (syntax highlighting) style to use.
