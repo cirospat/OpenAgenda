@@ -164,15 +164,21 @@ contenuti inseriti nel calendario (testi ed immagini), pertanto deve assicurarsi
 
 Maggiori informazioni sulle licenze Creative Commons sono reperibili sul sito: \ |LINK1|\  
 
----
 
-Ultimo aggiornamento: 26/4/2017
+.. admonition:: Ultimo aggiornamento del manuale
+
+    26/04/2017
+
+
+..  seealso:: 
+
+    \ |LINK2|\ 
 
 --------
 
 \ |IMG9|\ 
 
-OpenAgenda è una soluzione applicativa di OpenContent \ |LINK2|\  
+OpenAgenda è una soluzione applicativa di OpenContent \ |LINK3|\  
 
 .. bottom of content
 
@@ -225,6 +231,10 @@ OpenAgenda è una soluzione applicativa di OpenContent \ |LINK2|\
     <a href="http://creativecommons.it/Licenze" target="_blank">http://creativecommons.it/Licenze</a>
 
 .. |LINK2| raw:: html
+
+    <a href="https://medium.com/@cirospat/eventi-culturali-del-territorio-raccolti-e-comunicati-in-piattaforma-crowdsourcing-con-opendata-975b6c2766e6" target="_blank">Un articolo su OpenAgenda</a>
+
+.. |LINK3| raw:: html
 
     <a href="https://www.opencontent.it/Per-la-PA/OpenAgenda" target="_blank">https://www.opencontent.it/Per-la-PA/OpenAgenda</a>
 
