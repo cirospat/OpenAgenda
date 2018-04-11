@@ -31,7 +31,7 @@ L'associazione, utilizzando le credenziali fornite dall’Ente (login, password)
 
 \ |IMG2|\ 
 
-Utilizzando il link “Hai dimenticato la password?” può essere impostata immediatamente una nuova password, seguendo la procedura indicata sul sito.
+Utilizzando il link “\ |STYLE0|\ ” può essere impostata immediatamente una nuova password, seguendo la procedura indicata sul sito.
 
 |
 
@@ -42,23 +42,23 @@ Caricare un evento
 
 \ |IMG3|\ 
 
-Per creare un nuovo evento, serve accedere alla voce di menu “\ |STYLE0|\ ” e qui utilizzare il pulsante verde in alto a sinistra “\ |STYLE1|\ ”.
+Per creare un nuovo evento, serve accedere alla voce di menu “\ |STYLE1|\ ” e qui utilizzare il pulsante verde in alto a sinistra “\ |STYLE2|\ ”.
 
 Qui si aprirà una schermata dove inserire le informazioni rilevanti per il proprio evento, sono suddivise in 4 parti:
 
-* \ |STYLE2|\  : inserire il titolo, una descrizione, informazioni e costi;
+* \ |STYLE3|\ : inserire il titolo, una descrizione, informazioni e costi;
 
-* \ |STYLE3|\  : inserire orario e durata dell’evento;
+* \ |STYLE4|\ : inserire orario e durata dell’evento;
 
-* \ |STYLE4|\  : inserire il luogo dell’evento. Di fondamentale importanza qui è la possibilità di geolocalizzare il proprio evento su una mappa. Per fare questo è sufficiente inserire l’indirizzo nella prima casella di testo e cliccare sul pulsante “ cerca indirizzo”. Automaticamente l’indirizzo verrà segnalato sulla mappa;
+* \ |STYLE5|\ : inserire il luogo dell’evento. Di fondamentale importanza qui è la possibilità di geolocalizzare il proprio evento su una mappa. Per fare questo è sufficiente inserire l’indirizzo nella prima casella di testo e cliccare sul pulsante “ cerca indirizzo”. Automaticamente l’indirizzo verrà segnalato sulla mappa;
 
 \ |IMG4|\ 
 
-* \ |STYLE5|\  : specificare il target utente e l’argomento dell’evento. Importante è inserire tale informazioni per far in modo che i propri eventi siano filtrabili dagli utenti dell’agenda e siano più facilmente ricercabili.
+* \ |STYLE6|\ : specificare il target utente e l’argomento dell’evento. Importante è inserire tale informazioni per far in modo che i propri eventi siano filtrabili dagli utenti dell’agenda e siano più facilmente ricercabili.
 
-Per garantire una maggior completezza di informazione, si raccomanda di riempire tutti i campi possibili , inclusi quelli non obbligatori.
+Per garantire una maggior completezza di informazione, si raccomanda di riempire tutti i campi possibili, inclusi quelli non obbligatori.
 
-Una volta concluso premere sul pulsante verde “\ |STYLE6|\ ” in basso a destra; l’evento potrà essere modificato dalla stessa associazione (in caso di refusi), fino a che l’Ente non lo prenderà in esame.
+Una volta concluso premere sul pulsante verde “\ |STYLE7|\ ” in basso a destra; l’evento potrà essere modificato dalla stessa associazione (in caso di refusi), fino a che l’Ente non lo prenderà in esame.
 
 Il referente dell’Ente provvederà, in tempi brevi, ad esaminare i contenuti inseriti e ad approvare l’iniziativa proposta, che a quel punto sarà visibile a tutti i cittadini e diffusa su siti esterni.
 
@@ -73,11 +73,11 @@ Che cos’è un’iniziativa e come inserirla?
 
 Un’iniziativa è un possibile gruppi di eventi che fanno parte della stessa raccolta. 
 
-Ad esempio un’iniziativa del “\ |STYLE7|\ ” conterrà tutti gli eventi dei concerti del mese di maggio dell’iniziativa.
+Ad esempio un’iniziativa del “\ |STYLE8|\ ” conterrà tutti gli eventi dei concerti del mese di maggio dell’iniziativa.
 
 Per creare una nuova iniziativa è necessario essere nella fase di creazione di un nuovo evento.
 
-Quindi accedere alla voce di menu “\ |STYLE8|\ ” e qui usare il pulsante verde in alto e sinistra “\ |STYLE9|\ ”. Una volta aperta la successiva schermata dove inserire le informazioni dell’evento. 
+Quindi accedere alla voce di menu “\ |STYLE9|\ ” e qui usare il pulsante verde in alto e sinistra “\ |STYLE10|\ ”. Una volta aperta la successiva schermata dove inserire le informazioni dell’evento. 
 
 Scegliendo il tab categorizzazione, scorrendo verso il basso.
 
@@ -88,19 +88,19 @@ Scegliendo il tab categorizzazione, scorrendo verso il basso.
 Inserire immagini per gli eventi
 ********************************
 
-Per inserire le immagini relative ad un evento, una volta creato l’evento, accedere alla sezione “\ |STYLE10|\ ”. Qui identificare l’evento appena inserito e premere sul bottone azzurro “\ |STYLE11|\ ”.
+Per inserire le immagini relative ad un evento, una volta creato l’evento, accedere alla sezione “\ |STYLE11|\ ”. Qui identificare l’evento appena inserito e premere sul bottone azzurro “\ |STYLE12|\ ”.
 
 \ |IMG5|\ 
 
-Una volta aperta la nuova schermata del dettaglio dell’evento scegliere tra le 5 voci in alto la voce “\ |STYLE12|\ ”.
+Una volta aperta la nuova schermata del dettaglio dell’evento scegliere tra le 5 voci in alto la voce “\ |STYLE13|\ ”.
 
-Premere quindi sul pulsante blu “\ |STYLE13|\ ” per caricare una nuova immagine dal proprio computer o il pulsante blu “\ |STYLE14|\ ” per riutilizzare un’immagine già presente nell’archivio perché caricata in occasione di altri eventi.
+Premere quindi sul pulsante blu “\ |STYLE14|\ ” per caricare una nuova immagine dal proprio computer o il pulsante blu “\ |STYLE15|\ ” per riutilizzare un’immagine già presente nell’archivio perché caricata in occasione di altri eventi.
 
 Per ogni immagine è importante, una volta caricata, cliccare sul bottone con l’icona della matita \ |IMG6|\  per modificarne le informazioni principali. In particolar modo è importante completare i campi riguardanti la licenza d’uso della foto e l'autore.
 
 \ |IMG7|\ 
 
-Concludere con il pulsante “\ |STYLE15|\ ” in basso a destra.
+Concludere con il pulsante “\ |STYLE16|\ ” in basso a destra.
 
 Le immagini possono venire modificate anche in seguito alla pubblicazione dell’evento, inclusi i metadati (titolo, autore, ...). 
 
@@ -117,9 +117,9 @@ Si raccomanda di:
 Pianificazione eventi
 *********************
 
-Accedendo alla sezione “\ |STYLE16|\ ”, si possono vedere tutti gli eventi approvati e quelli che sono in attesa di approvazione da parte dell’Ente. 
+Accedendo alla sezione “\ |STYLE17|\ ”, si possono vedere tutti gli eventi approvati e quelli che sono in attesa di approvazione da parte dell’Ente. 
 
-Attraverso il link “\ |STYLE17|\ ” si può avere un’idea più chiara di ciò che è previsto (anche non ancora definitivo) nel corso dei giorni/mesi successivi; questo consentirà di coordinare meglio la pianificazione delle iniziative proposte, in collaborazione con l’Ente e con le altre associazioni.
+Attraverso il link “\ |STYLE18|\ ” si può avere un’idea più chiara di ciò che è previsto (anche non ancora definitivo) nel corso dei giorni/mesi successivi; questo consentirà di coordinare meglio la pianificazione delle iniziative proposte, in collaborazione con l’Ente e con le altre associazioni.
 
 |
 
@@ -130,11 +130,11 @@ Aggiornare il proprio profilo
 
 Una volta effettuato il primo accesso è importante inserire tutte le informazioni riguardanti la propria associazione come indirizzo, contatti, ... e tenere in seguito tali dati periodicamente aggiornati.
 
-Per fare questo premere sull’icona del profilo a destra nel menu e selezionare la voce di sottomenù “\ |STYLE18|\ ”.
+Per fare questo premere sull’icona del profilo a destra nel menu e selezionare la voce di sottomenù “\ |STYLE19|\ ”.
 
 \ |IMG8|\ 
 
-Qui premere sul pulsante blu “\ |STYLE19|\ ” e compilare la form con tutte le informazioni necessarie. 
+Qui premere sul pulsante blu “\ |STYLE20|\ ” e compilare la form con tutte le informazioni necessarie. 
 
 Anche in questo caso per garantire completezza di informazione è importante completare la maggior parte dei campi, anche di quelli non obbligatori.
 
@@ -145,7 +145,7 @@ Anche in questo caso per garantire completezza di informazione è importante com
 Per uscire dal sistema 
 ***********************
 
-Per uscire dal sistema basta semplicemente premere sull’icona del profilo a destra nel menu e selezionare la voce di sottomenù “\ |STYLE20|\ ”.
+Per uscire dal sistema basta semplicemente premere sull’icona del profilo a destra nel menu e selezionare la voce di sottomenù “\ |STYLE21|\ ”.
 
 |
 
@@ -177,47 +177,49 @@ OpenAgenda è una soluzione applicativa di OpenContent
 .. bottom of content
 
 
-.. |STYLE0| replace:: **gestisci eventi**
+.. |STYLE0| replace:: **Hai dimenticato la password?**
 
-.. |STYLE1| replace:: **crea un nuovo evento**
+.. |STYLE1| replace:: **gestisci eventi**
 
-.. |STYLE2| replace:: **contenuti principali**
+.. |STYLE2| replace:: **crea un nuovo evento**
 
-.. |STYLE3| replace:: **quando**
+.. |STYLE3| replace:: **contenuti principali**
 
-.. |STYLE4| replace:: **dove**
+.. |STYLE4| replace:: **quando**
 
-.. |STYLE5| replace:: **categorizzazione**
+.. |STYLE5| replace:: **dove**
 
-.. |STYLE6| replace:: **Salva**
+.. |STYLE6| replace:: **categorizzazione**
 
-.. |STYLE7| replace:: *maggio dedicato al rock*
+.. |STYLE7| replace:: **Salva**
 
-.. |STYLE8| replace:: **Gestisci eventi**
+.. |STYLE8| replace:: *maggio dedicato al rock*
 
-.. |STYLE9| replace:: **crea un nuovo evento**
+.. |STYLE9| replace:: **Gestisci eventi**
 
-.. |STYLE10| replace:: **Gestisci eventi**
+.. |STYLE10| replace:: **crea un nuovo evento**
 
-.. |STYLE11| replace:: **Dettagli**
+.. |STYLE11| replace:: **Gestisci eventi**
 
-.. |STYLE12| replace:: **Galleria immagini**
+.. |STYLE12| replace:: **Dettagli**
 
-.. |STYLE13| replace:: **Nuovo**
+.. |STYLE13| replace:: **Galleria immagini**
 
-.. |STYLE14| replace:: **Libreria**
+.. |STYLE14| replace:: **Nuovo**
 
-.. |STYLE15| replace:: **Salva**
+.. |STYLE15| replace:: **Libreria**
 
-.. |STYLE16| replace:: **Gestisci eventi**
+.. |STYLE16| replace:: **Salva**
 
-.. |STYLE17| replace:: **Calendario**
+.. |STYLE17| replace:: **Gestisci eventi**
 
-.. |STYLE18| replace:: **PROFILO**
+.. |STYLE18| replace:: **Calendario**
 
-.. |STYLE19| replace:: **Modifica profilo**
+.. |STYLE19| replace:: **PROFILO**
 
-.. |STYLE20| replace:: **ESCI**
+.. |STYLE20| replace:: **Modifica profilo**
+
+.. |STYLE21| replace:: **ESCI**
 
 
 .. |LINK1| raw:: html
