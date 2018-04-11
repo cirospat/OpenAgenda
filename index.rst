@@ -178,7 +178,9 @@ Maggiori informazioni sulle licenze Creative Commons sono reperibili sul sito: \
 
 \ |IMG9|\ 
 
-OpenAgenda è una soluzione applicativa di OpenContent \ |LINK3|\  
+OpenAgenda è una soluzione applicativa di OpenContent 
+
+\ |LINK3|\  
 
 .. bottom of content
 
