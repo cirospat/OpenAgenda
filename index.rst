@@ -62,9 +62,7 @@ Una volta concluso premere sul pulsante verde “\ |STYLE6|\ ” in basso a dest
 
 Il referente dell’Ente provvederà, in tempi brevi, ad esaminare i contenuti inseriti e ad approvare l’iniziativa proposta, che a quel punto sarà visibile a tutti i cittadini e diffusa su siti esterni.
 
-Una volta volta approvato dal referente dell’Ente, l’evento non potrà più essere modificato
-
-dall’associazione.
+Una volta volta approvato dal referente dell’Ente, l’evento non potrà più essere modificato dall’associazione.
 
 |
 
@@ -130,9 +128,7 @@ Attraverso il link “\ |STYLE17|\ ” si può avere un’idea più chiara di ci
 Aggiornare il proprio profilo
 *****************************
 
-Una volta effettuato il primo accesso è importante inserire tutte le informazioni riguardanti la propria associazione come indirizzo, contatti, ... e tenere in seguito tali dati periodicamente
-
-aggiornati.
+Una volta effettuato il primo accesso è importante inserire tutte le informazioni riguardanti la propria associazione come indirizzo, contatti, ... e tenere in seguito tali dati periodicamente aggiornati.
 
 Per fare questo premere sull’icona del profilo a destra nel menu e selezionare la voce di sottomenù “\ |STYLE18|\ ”.
 
@@ -158,9 +154,7 @@ Per uscire dal sistema basta semplicemente premere sull’icona del profilo a de
 Raccomandazione: policy sui contenuti
 *************************************
 
-Aderendo all’iniziativa, l’associazione dichiara di applicare una licenza Creative Commons ai
-
-contenuti inseriti nel calendario (testi ed immagini), pertanto deve assicurarsi di essere il titolare del contenuto o che il titolare del contenuto (es. fotografo) applichi questa stessa licenza ai propri contenuti. Questo favorirà tutte le azioni di diffusione degli eventi che l’Ente si impegna ad effettuare con questo progetto, avvalendosi del paradigma Open Data (ad esempio, pubblicando gli eventi su altri portali istituzionali, locali ed internazionali). 
+Aderendo all’iniziativa, l’associazione dichiara di applicare una licenza Creative Commons ai contenuti inseriti nel calendario (testi ed immagini), pertanto deve assicurarsi di essere il titolare del contenuto o che il titolare del contenuto (es. fotografo) applichi questa stessa licenza ai propri contenuti. Questo favorirà tutte le azioni di diffusione degli eventi che l’Ente si impegna ad effettuare con questo progetto, avvalendosi del paradigma Open Data (ad esempio, pubblicando gli eventi su altri portali istituzionali, locali ed internazionali). 
 
 Maggiori informazioni sulle licenze Creative Commons sono reperibili sul sito: \ |LINK1|\  
 
@@ -173,8 +167,6 @@ Maggiori informazioni sulle licenze Creative Commons sono reperibili sul sito: \
 ..  seealso:: 
 
     \ |LINK2|\ 
-
---------
 
 \ |IMG9|\ 
 
