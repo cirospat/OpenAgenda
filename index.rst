@@ -1,10 +1,4 @@
 
-.. toctree::  
-    :maxdepth: 2
-    :caption: Indice
-
-    policy
-
 .. _h6678723070634860455f58573c6c4b26:
 
 OpenAgenda
@@ -173,6 +167,16 @@ Maggiori informazioni sulle licenze Creative Commons sono reperibili sul sito: \
 OpenAgenda è una soluzione applicativa di OpenContent 
 
 \ |LINK3|\  
+
+--------
+
+
+.. toctree::  
+    :maxdepth: 2
+    :caption: Indice
+
+    policy
+
 
 .. bottom of content
 
