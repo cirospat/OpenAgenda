@@ -175,6 +175,7 @@ OpenAgenda è una soluzione applicativa di OpenContent
     :maxdepth: 2
     :caption: Indice
 
+    index
     policy
 
 
