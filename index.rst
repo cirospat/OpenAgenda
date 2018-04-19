@@ -3,7 +3,6 @@
     :maxdepth: 2
     :caption: Indice
 
-    index
     policy
 
 .. _h6678723070634860455f58573c6c4b26:
