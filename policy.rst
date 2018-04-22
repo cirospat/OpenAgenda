@@ -13,12 +13,16 @@ Il servizio ………… è una iniziativa del Comune di Palermo volta a promuov
 
 Il servizio è caratterizzato da un elenco di campi da compilare che permette una facile individuazioni sia della tipologia di evento pubblicato che del soggetto (Ente pubblico, Associazione) che pubblica eventi. 
 
+|
+
 .. _h7d393f315b1aa207616715ad3a77a:
 
 Vocabolario controllato degli eventi culturali
-----------------------------------------------
+==============================================
 
 Il vocabolario delle classi di eventi culturali è stato definito in accordo con un gruppo europeo attivo nel campo dell’interoperabilità semantica dei servizi delle Pubbliche Amministrazioni nel territorio europeo. L’adozione di un vocabolario delle classi di eventi culturali ha lo scopo di permettere un omogeneizzazione delle informazioni, a livello europeo, permettendo il facile scambio di dati e informazioni tra gli operatori del settore culturale nei paesi membri dell’UE.
+
+|
 
 .. _h50e53a3a6e30191a6b6b354b1cb4f:
 
@@ -51,6 +55,8 @@ Per manifestazione in questo portale si intende una serie di eventi raccolti sot
     * Iniziative discriminatorie sugli orientamenti politici, sessuali, religiosi degli individui.
     L’attività quotidiana di moderazione da parte del personale comunale, una volta verificata la violazione di una di queste regole, provvederà alla cancellazione dell’account dell’Associazione responsabile della violazione, avviando contemporaneamente le procedure necessarie per la denuncia alle Autorità competenti.
 
+|
+
 .. _h3f356d4275243f7a4368662a2a801f18:
 
 Quali eventi/manifestazioni posso trovare su Open Agenda?
@@ -59,6 +65,8 @@ Quali eventi/manifestazioni posso trovare su Open Agenda?
 Le manifestazioni e gli eventi pubblicizzati sono quelli organizzati dal Comune di Palermo o in collaborazione con il Comune di Palermo, o con il contributo o il patrocinio del Comune. Inoltre ………………...  raccoglie tutti gli eventi culturali, sportivi e ricreativi delle associazioni che si registrano sito web e considerati rilevanti per il territorio o per un quartiere della città.
 
 E' possibile pubblicare, in via esemplificativa e non esaustiva: mostre e inaugurazioni, spettacoli, concerti, conferenze, incontri e convegni, workshop, eventi enogastronomici, sagre, festival, presentazioni libri, rassegne cinema/film, iniziative ed eventi sportivi, ricreativi, ludici e tecnologici (es. Hackathon, Fablab, Opendataday, ecc.).
+
+|
 
 .. _h6247502d7bb6e25183e5b3a6c373d:
 
@@ -108,6 +116,8 @@ Il responsabile dell’Associazione una volta effettuato l’accesso tramite SPI
 
     Per coloro che ancora non fossero in possesso dell'identità digitale SPID si riporta il link dell’Agenzia per l’Italia Digitale (AGID) che spiega passo passo la procedura per l’ottenimento di SPID: \ |LINK1|\ 
 
+|
+
 .. _h1f622c56151d39b411a4c6222224632:
 
 OPENDATA
@@ -131,6 +141,8 @@ Tutti i dati contenuti in questa area tematica del sito sono rilasciati in forma
 
 Le \ |LINK3|\  sono licenze standard e riconosciute internazionalmente come le licenze di riferimento per la gestione degli open data. In particolare, i dati sono rilasciati con la licenza “Creative Commons Attribution” (CC-BY) che permette l'utilizzo dei dati senza alcuna restrizione, salva la citazione della fonte, nel caso della CC-BY.
 
+|
+
 .. _h665d80773d2d3b3235566c333d2f621c:
 
 A chi chiedere informazioni?
@@ -140,6 +152,8 @@ L'Ufficio competente per chiedere informazioni sulle procedure di adesione è:
 
 ………………………………...
 
+--------
+
 .. _h393e4d632c216e168012b6a1f6c306f:
 
 Termini di utilizzo
@@ -148,6 +162,8 @@ Termini di utilizzo
 l servizio "Open Agenda" è una iniziativa del Comune di Palermo  finalizzata a promuovere le iniziative  e gli eventi culturali e ricreativi -  propri e delle associazioni del territorio. L’Amministrazione, nell’ambito del Programma Operativo Città Metropolitane 2014-2020, Asse 1 Agenda Digitale, Piattaforma ICT Cultura e Tempo LIbero, intende mettere a disposizione della comunità un servizio online per la valorizzazione degli eventi culturali locali, fornendo alle Associazioni una vetrina di conoscenza online.
 
 Per partecipare le Associazioni con sede nel Comune di Palermo possono registrarsi al sito …………………. e in caso di necessità contattare gli uffici comunali al seguente indirizzo e-mail: ………………..
+
+|
 
 .. _h625eb2f3a304e346277165579207530:
 
@@ -161,6 +177,8 @@ Oggetto e definizioni
 #. Per “Associazione” si intende la persona giuridica registrata che invia eventi alla piattaforma “Open Agenda”.
 
 #. Per “Moderatore” si intende un funzionario Comunale di Palermo a cui sono indirizzati gli eventi ed a cui compete l'eventuale presa in carico e pubblicazione degli stessi.
+
+|
 
 .. _h66771b74316d614d1023241a5af371f:
 
@@ -177,6 +195,8 @@ Attività di inoltro eventi
 
 #. Chiunque, previa registrazione, può inviare commenti su eventi. Ai commenti non verrà data risposta da parte dell'Amministratore del sistema. L’Amministratore del sistema potrà altresì eliminare dalla piattaforma il commento qualora esso possa ledere il diritto di terzi o comunque contrasti con le regole di correttezza e buona educazione. Il titolare di commenti ritenuti ripetutamente offensivi sarà cancellato dalla lista dei commentatori.
 
+|
+
 .. _h7a5e412a461e4013676c7a741d627dd:
 
 Liberatoria e licenza per inserire immagini su Open Agenda
@@ -187,6 +207,8 @@ Al fine di inserire liberamente le immagini sulla piattaforma Open Agenda, l’A
 Nel caso l’Associazione intende riusare immagini presenti sul web deve preventivamente accertarsi che le stesse siano rilasciate con un tipo di licenza tale da permetterne il riuso per la pubblicazione su Open Agenda e deve rispettare le condizioni della licenza assegnata originariamente al soggetto che le ha pubblicate sul web.
 
 L’Associazione che pubblica immagini su Open Agenda, come elemento di arricchimento dell’evento da pubblicare, rilascia le stesse immagini con licenza Creative Commons CC BY. Il riuso di tali immagini da parte di soggetti terzi è, quindi, permesso a condizione di citare l’autore della stessa immagine. 
+
+--------
 
 .. _h3be654d6f6f582e20f5d4d3e13601:
 
@@ -200,12 +222,16 @@ Informativa ex art. 13 D.Lgs. 196/2003
 
 I Suoi dati personali, sensibili e/o giudiziari, sono trattati con procedure informatizzate e manuali, nel rispetto delle disposizioni contenute nel Codice per la protezione dei dati personali, sia sotto il profilo procedimentale che della custodia atta a garantirne la riservatezza. I dati personali possono essere trattati anche per finalità statistiche.
 
+|
+
 .. _h1b194d577648704021b4838564c2c56:
 
 Trattamento dei dati sensibili o giudiziari
 ===========================================
 
 Tutti i dati da Lei conferiti sono trattati esclusivamente ai fini della gestione della funzione “Commenti” per la piattaforma degli eventi Open Agenda.
+
+|
 
 .. _h7f6c567b1b9e25177144126d10:
 
@@ -228,6 +254,8 @@ il mancato conferimento comporta l’impossibilità di avvalersi del servizio on
 
 Il conferimento di ogni altro dato ha natura volontaria.
 
+|
+
 .. _h6b241f876ef777f8636c78703e69:
 
 Comunicazione e diffusione
@@ -242,6 +270,8 @@ I dati inoltre possono essere comunicati dal responsabile del trattamento ai suo
 Si segnala che gli aspetti informatici dei siti web sono gestiti dal Comune di  Palermo avvalendosi del Servizio Sistemi Informativi della Società SISPI SpA.
 
 I dati verranno diffusi nelle sole forme aggregate ed anonime.
+
+|
 
 .. _h858247c2274774b5735864315f395f:
 
@@ -260,12 +290,16 @@ L’articolo 7 del D.Lgs. 30.6.2003, n. 196, “Codice in materia di protezione 
 
 * opporsi, in tutto o in parte, per motivi legittimi, al trattamento dei dati personali che lo riguardano, ancorché pertinenti allo scopo della raccolta, o ai fini di invio di materiale pubblicitario o di vendita diretta o per il compimento di ricerche di mercato o comunicazione commerciale.
 
+|
+
 .. _h45b3874181329716740702624106f2b:
 
 Titolare del trattamento dati
 =============================
 
 Titolare del trattamento dei dati personali è il Comune di Palermo, nella persona del Sindaco pro tempore.
+
+|
 
 .. _h8723e615223781e55eb2c28434d7b:
 
