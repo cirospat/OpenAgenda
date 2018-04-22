@@ -39,18 +39,15 @@ Per manifestazione in questo portale si intende una serie di eventi raccolti sot
 
 * ecc.
 
-.. _h434e504ba60677678784524d426951:
 
-Cosa non è possibile inserire su Open Agenda
---------------------------------------------
+.. admonition:: Cosa non è possibile inserire su Open Agenda
 
-* Iniziative ed eventi organizzati da partiti/movimenti politici anche (e non solo) in prossimità delle consultazioni elettorali o referendarie.
-
-* Iniziative che sono offensive/lesive della morale pubblica.
-
-* Iniziative discriminatorie sugli orientamenti politici, sessuali, religiosi degli individui.
-
-L’attività quotidiana di moderazione da parte del personale comunale, una volta verificata la violazione di una di queste regole, provvederà alla cancellazione dell’account dell’Associazione responsabile della violazione, avviando contemporaneamente le procedure necessarie per la denuncia alle Autorità competenti.
+    * Iniziative ed eventi organizzati da partiti/movimenti politici anche (e non solo) in prossimità delle consultazioni elettorali o referendarie.
+    
+    * Iniziative che sono offensive/lesive della morale pubblica.
+    
+    * Iniziative discriminatorie sugli orientamenti politici, sessuali, religiosi degli individui.
+    L’attività quotidiana di moderazione da parte del personale comunale, una volta verificata la violazione di una di queste regole, provvederà alla cancellazione dell’account dell’Associazione responsabile della violazione, avviando contemporaneamente le procedure necessarie per la denuncia alle Autorità competenti.
 
 .. _h3f356d4275243f7a4368662a2a801f18:
 
@@ -59,14 +56,14 @@ Quali eventi/manifestazioni posso trovare su Open Agenda?
 
 Le manifestazioni e gli eventi pubblicizzati sono quelli organizzati dal Comune di Palermo o in collaborazione con il Comune di Palermo, o con il contributo o il patrocinio del Comune. Inoltre ………………...  raccoglie tutti gli eventi culturali, sportivi e ricreativi delle associazioni che si registrano sito web e considerati rilevanti per il territorio o per un quartiere della città.
 
-E' possibile pubblicare, in via esemplificativa e non esaustiva: mostre e inaugurazioni, spettacoli, concerti, conferenze, incontri e convegni, workshop; eventi enogastronomici, festival, presentazioni libri, cinema/film, iniziative ed eventi sportivi, ricreativi, ludici e tecnologici (es. Hackathon, Fablab, ecc.).
+E' possibile pubblicare, in via esemplificativa e non esaustiva: mostre e inaugurazioni, spettacoli, concerti, conferenze, incontri e convegni, workshop, eventi enogastronomici, sagre, festival, presentazioni libri, rassegne cinema/film, iniziative ed eventi sportivi, ricreativi, ludici e tecnologici (es. Hackathon, Fablab, Opendataday, ecc.).
 
 .. _h6247502d7bb6e25183e5b3a6c373d:
 
 Come inserire gli eventi? Accesso alla piattaforma Open Agenda grazie all’uso di SPID 
 ======================================================================================
 
-L’accesso alla piattaforma è possibile grazie all’uso delle credenziali di SPID, (sistema pubblico di identità digitale) al quale il Comune di Palermo ha aderito in ottemperanza al Piano Triennale dell’Informatica nella Pubblica Amministrazione.
+L’accesso alla piattaforma è possibile grazie all’uso delle credenziali di SPID, (\ |STYLE0|\ ) al quale il Comune di Palermo ha aderito in ottemperanza al Piano Triennale dell’Informatica nella Pubblica Amministrazione.
 
 Il responsabile dell’Associazione una volta effettuato l’accesso tramite SPID alla piattaforma utilizzando le proprie credenziali SPID, può accedere al sistema ed effettuare le seguenti attività elencate in ordine di priorità:
 
@@ -102,12 +99,10 @@ Il responsabile dell’Associazione una volta effettuato l’accesso tramite SPI
 
 * pubblicare i propri eventi. Gli eventi possono essere pubblicati anche dai referenti abilitati dal responsabile dell’Associazione sulla piattaforma.
 
-.. _h667ff7725122b184e82911070267d:
 
-Ottenere le credenziali SPID
-----------------------------
+.. admonition:: Ottenere le credenziali SPID
 
-Per coloro che ancora non fossero in possesso dell'identità digitale SPID si riporta il link dell’Agenzia per l’Italia Digitale (AGID) che spiega passo passo la procedura per l’ottenimento di SPID: \ |LINK1|\  
+    Per coloro che ancora non fossero in possesso dell'identità digitale SPID si riporta il link dell’Agenzia per l’Italia Digitale (AGID) che spiega passo passo la procedura per l’ottenimento di SPID: \ |LINK1|\ 
 
 .. _h1f622c56151d39b411a4c6222224632:
 
@@ -146,9 +141,9 @@ L'Ufficio competente per chiedere informazioni sulle procedure di adesione è:
 Termini di utilizzo
 *******************
 
-l servizio "Open Agenda" è una iniziativa del Comune di Palermo  finalizzata a promuovere le iniziative  e gli eventi- culturali e ricreativi -  propri e delle associazioni del territorio.
+l servizio "Open Agenda" è una iniziativa del Comune di Palermo  finalizzata a promuovere le iniziative  e gli eventi culturali e ricreativi -  propri e delle associazioni del territorio. L’Amministrazione, nell’ambito del Programma Operativo Città Metropolitane 2014-2020, Asse 1 Agenda Digitale, Piattaforma ICT Cultura e Tempo LIbero, intende mettere a disposizione della comunità un servizio online per la valorizzazione degli eventi culturali locali, fornendo alle Associazioni una vetrina di conoscenza online.
 
-Per partecipare le Associazioni con sede nel Comune di Palermo possono registrarsi al sito ………………….  e in caso di necessità contattare gli uffici comunali al seguente indirizzo e-mail: ………………..
+Per partecipare le Associazioni con sede nel Comune di Palermo possono registrarsi al sito …………………. e in caso di necessità contattare gli uffici comunali al seguente indirizzo e-mail: ………………..
 
 .. _h625eb2f3a304e346277165579207530:
 
@@ -170,18 +165,18 @@ Attività di inoltro eventi
 
 #. L´"attività di inoltro eventi” da parte dell'Associazione potrà essere arricchita tramite l'invio informatico di fotografie e l’inserimento di commenti nel rispetto della normativa sulla privacy.
 
-#. L´"attività di inoltro eventi” dovrà riguardare esclusivamente iniziative ed eventi ritenuti rilevanti dal Comune.
+#. L´"attività di inoltro eventi” dovrà riguardare esclusivamente iniziative ed eventi ritenuti rilevanti dal Comune. Il Comune effettua attività quotidiana di moderazione sugli eventi caricati dalle Associazioni.
 
 #. Con l'"attività di inoltro eventi" l'Associazione dichiara di essere titolare di ogni diritto eventualmente ad essi connesso (a titolo meramente esemplificativo e non esaustivo: le fotografie).
 
 #. In ogni caso, la pubblicazione o l'eliminazione degli eventi all'interno della piattaforma “Open Agenda” sono rimessi, per i motivi sopra indicati, alla valutazione del Comune che potrà svolgersi anche a campione.
 
-#. Chiunque, previa registrazione, può inviare commenti su eventi. Ai commenti non verrà data risposta da parte dell'Amministratore del sistema. L’Amministratore del sistema potrà altresì eliminare dalla piattaforma il commento qualora esso possa ledere il diritto di terzi o comunque contrasti con le regole di correttezza.
+#. Chiunque, previa registrazione, può inviare commenti su eventi. Ai commenti non verrà data risposta da parte dell'Amministratore del sistema. L’Amministratore del sistema potrà altresì eliminare dalla piattaforma il commento qualora esso possa ledere il diritto di terzi o comunque contrasti con le regole di correttezza e buona educazione. Il titolare di commenti ritenuti ripetutamente offensivi sarà cancellato dalla lista dei commentatori.
 
-.. _h672597e6104854694a575a826b22:
+.. _h7a5e412a461e4013676c7a741d627dd:
 
-Liberatoria e licenza per inserire fotografie su Open Agenda
-============================================================
+Liberatoria e licenza per inserire immagini su Open Agenda
+==========================================================
 
 Al fine di inserire liberamente le immagini sulla piattaforma Open Agenda, l’Associazione deve essere il titolare delle immagini. E’ vietata la pubblicazione di immagini prese o raccolte su internet per le quali non si dispone della relativa licenza di utilizzo.
 
@@ -223,7 +218,7 @@ Il conferimento dei dati da parte delle Associazioni ha natura obbligatoria limi
 
 * codice fiscale dell’Associazione;
 
-* nome, cognome, email e codice fiscale del referente della pubblicazione degli eventi individuato unicamente dal Responsabile dell’Associazione;
+* nome, cognome, email e codice fiscale del referente della pubblicazione degli eventi individuato e abilitato unicamente dal Responsabile dell’Associazione;
 
 il mancato conferimento comporta l’impossibilità di avvalersi del servizio on-line.
 
@@ -273,18 +268,13 @@ Titolare del trattamento dei dati personali è il Comune di Palermo, nella perso
 Responsabile del trattamento dati
 =================================
 
-Responsabile del trattamento dei dati è il Dirigente pro tempore del
-
-* Servizio / Area, ………...
-
-* nome cognome, …………...
-
-* telefono, ………………….
-
-* email, …………………...
+Responsabile del trattamento dei dati è la Società per i Servizi Informatici del Comune di Palermo, SISPI SpA \ |LINK4|\ . 
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **Sistema Pubblico di Identità Digitale**
 
 
 .. |LINK1| raw:: html
@@ -298,4 +288,8 @@ Responsabile del trattamento dei dati è il Dirigente pro tempore del
 .. |LINK3| raw:: html
 
     <a href="https://creativecommons.org/faq/" target="_blank">Creative Commons</a>
+
+.. |LINK4| raw:: html
+
+    <a href="http://sispi.it" target="_blank">http://sispi.it</a>
 
