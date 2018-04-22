@@ -9,7 +9,16 @@ Policy e regole di partecipazione
 Descrizione del servizio
 ************************
 
-Il servizio ………… è una iniziativa del Comune di Palermo volta a promuovere eventi, manifestazioni e iniziative culturali, sportive e ricreative del territorio cittadino, propri e/o di terzi (associazioni).
+Il servizio ………… è una iniziativa del Comune di Palermo volta a promuovere la comunicazione di eventi, manifestazioni e iniziative culturali, sportive e ricreative del territorio cittadino, propri e/o di terzi (associazioni).
+
+Il servizio è caratterizzato da un elenco di campi da compilare che permette una facile individuazioni sia della tipologia di evento pubblicato che del soggetto (Ente pubblico, Associazione) che pubblica eventi. 
+
+.. _h7d393f315b1aa207616715ad3a77a:
+
+Vocabolario controllato degli eventi culturali
+----------------------------------------------
+
+Il vocabolario delle classi di eventi culturali è stato definito in accordo con un gruppo europeo attivo nel campo dell’interoperabilità semantica dei servizi delle Pubbliche Amministrazioni nel territorio europeo. L’adozione di un vocabolario delle classi di eventi culturali ha lo scopo di permettere un omogeneizzazione delle informazioni, a livello europeo, permettendo il facile scambio di dati e informazioni tra gli operatori del settore culturale nei paesi membri dell’UE.
 
 .. _h50e53a3a6e30191a6b6b354b1cb4f:
 
@@ -19,6 +28,19 @@ Cos'è un evento e cosa una manifestazione?
 Per evento s'intende un singolo appuntamento rivolto ai cittadini o ad una parte di essi.
 
 Per manifestazione in questo portale si intende una serie di eventi raccolti sotto un unico cappello. Esempio: la rassegna Natale a Palermo è costituita dall'insieme degli eventi del periodo natalizio condivise con il Comune di Palermo.
+
+.. _h434e504ba60677678784524d426951:
+
+Cosa non è possibile inserire su Open Agenda
+--------------------------------------------
+
+* Iniziative ed eventi organizzati da partiti/movimenti politici anche (e non solo) in prossimità delle consultazioni elettorali o referendarie.
+
+* Iniziative che sono offensive/lesive della morale pubblica.
+
+* Iniziative discriminatorie sugli orientamenti politici, sessuali, religiosi.
+
+L’attività quotidiana di moderazione da parte del personale comunale, una volta verificata la violazione di una di queste regole, provvederà alla cancellazione dell’account dell’Associazione responsabile della violazione, avviando contemporaneamente le procedure necessarie per la denuncia alle Autorità competenti.
 
 .. _h3f356d4275243f7a4368662a2a801f18:
 
@@ -64,7 +86,7 @@ Le \ |LINK2|\  sono licenze standard e riconosciute internazionalmente come le l
 A chi chiedere informazioni?
 ============================
 
-L'Ufficio competente è:
+L'Ufficio competente per chiedere informazioni sulle procedure di adesione è:
 
 ………………………………...
 
@@ -140,7 +162,19 @@ Tutti i dati da Lei conferiti sono trattati esclusivamente ai fini della gestion
 Conferimento dei dati
 =====================
 
-Il conferimento dei dati ha natura obbligatoria limitatamente a nome, cognome ed e mail; il mancato conferimento comporta l’impossibilità di avvalersi del servizio on-line.
+Il conferimento dei dati da parte delle Associazioni ha natura obbligatoria limitatamente a:
+
+* nome, cognome del Responsabile dell’Associazione che pubblica eventi;
+
+* codice fiscale responsabile dell’Associazione;
+
+* email dell’Associazione; 
+
+* codice fiscale dell’Associazione;
+
+* nome, cognome, email e codice fiscale del referente della pubblicazione degli eventi individuato unicamente dal Responsabile dell’Associazione;
+
+il mancato conferimento comporta l’impossibilità di avvalersi del servizio on-line.
 
 Il conferimento di ogni altro dato ha natura volontaria.
 
@@ -149,7 +183,7 @@ Il conferimento di ogni altro dato ha natura volontaria.
 Comunicazione e diffusione
 ==========================
 
-I dati che la riguardano sono comunicati nei limiti e con le procedure individuate dal Codice in materia di protezione dei dati personali e per evadere eventuali istanze dei titolari di un diritto di accesso ai sensi di legge.
+I dati che la riguardano sono comunicati nei limiti e con le procedure individuate dalle norme vigenti in materia di protezione dei dati personali e per evadere eventuali istanze dei titolari di un diritto di accesso ai sensi di legge.
 
 I dati possono essere comunicati ad altri uffici del comune al fine di evadere richieste di accesso o ai fini delle procedure della Carta dei Servizi di ciascun servizio, ove prevista.
 
