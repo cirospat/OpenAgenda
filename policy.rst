@@ -39,6 +39,8 @@ Per manifestazione in questo portale si intende una serie di eventi raccolti sot
 
 * ecc.
 
+|
+
 
 .. admonition:: Cosa non è possibile inserire su Open Agenda
 
