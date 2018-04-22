@@ -101,6 +101,8 @@ Il responsabile dell’Associazione una volta effettuato l’accesso tramite SPI
 
 * pubblicare i propri eventi. Gli eventi possono essere pubblicati anche dai referenti abilitati dal responsabile dell’Associazione sulla piattaforma.
 
+|
+
 
 .. admonition:: Ottenere le credenziali SPID
 
