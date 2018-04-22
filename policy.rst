@@ -68,6 +68,11 @@ E' possibile pubblicare, in via esemplificativa e non esaustiva: mostre e inaugu
 
 |
 
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 .. _h6247502d7bb6e25183e5b3a6c373d:
 
 Come inserire gli eventi? Accesso alla piattaforma Open Agenda grazie all’uso di SPID 
