@@ -27,17 +27,15 @@ Cos'è un evento e cosa una manifestazione?
 
 Per evento s'intende un singolo appuntamento rivolto ai cittadini o ad una parte di essi.
 
-Per manifestazione in questo portale si intende una serie di eventi raccolti sotto un unico cappello. Esempi: 
+Per manifestazione in questo portale si intende una serie di eventi raccolti sotto un unico cappello. Esempi di manifestazioni: 
 
 * la rassegna Natale a Palermo è costituita dall'insieme degli eventi del periodo natalizio condivise con il Comune di Palermo;
 
-* la Via dei Tesori;
+* la Via dei Tesori costituita da singoli appuntamenti in posti diversi nell’arco temporale di un mese;
 
-* gli eventi dei festeggiamenti in onore della santa protettrice di Palermo, Santa Rosalia;
+* gli eventi dei festeggiamenti in onore della santa protettrice di Palermo, Santa Rosalia, strutturati in più giorni;
 
-* la Via dei Librai;
-
-* gli eventi del Teatro di Verdura;
+* gli eventi estivi al Teatro di Verdura o gli eventi dell’Orchestra Sinfonica Siciliana al Teatro Politeama o ancora gli eventi musicali del Brass Group;
 
 * ecc.
 
@@ -50,7 +48,7 @@ Cosa non è possibile inserire su Open Agenda
 
 * Iniziative che sono offensive/lesive della morale pubblica.
 
-* Iniziative discriminatorie sugli orientamenti politici, sessuali, religiosi.
+* Iniziative discriminatorie sugli orientamenti politici, sessuali, religiosi degli individui.
 
 L’attività quotidiana di moderazione da parte del personale comunale, una volta verificata la violazione di una di queste regole, provvederà alla cancellazione dell’account dell’Associazione responsabile della violazione, avviando contemporaneamente le procedure necessarie per la denuncia alle Autorità competenti.
 
@@ -63,12 +61,53 @@ Le manifestazioni e gli eventi pubblicizzati sono quelli organizzati dal Comune 
 
 E' possibile pubblicare, in via esemplificativa e non esaustiva: mostre e inaugurazioni, spettacoli, concerti, conferenze, incontri e convegni, workshop; eventi enogastronomici, festival, presentazioni libri, cinema/film, iniziative ed eventi sportivi, ricreativi, ludici e tecnologici (es. Hackathon, Fablab, ecc.).
 
-.. _h56495a13182514683064c5f51136a2f:
+.. _h1b4b7c745c31405133312f312e74528:
 
-Come inserire gli eventi?
-=========================
+Come inserire gli eventi? Accesso alla piattaforma Open Agenda grazie all’uso di SPID (Sistema Pubblico di Identità Digitale)
+=============================================================================================================================
 
-L'associazione una volta registrata sul sito ………………. utilizzando le credenziali (login, password), può accedere al sistema e pubblicare i propri eventi.
+L’accesso alla piattaforma è possibile grazie all’uso delle credenziali di SPID, sistema pubblico di identità digitale al quale il Comune di Palermo ha aderito in ottemperanza al Piano Triennale dell’Informatica nella Pubblica Amministrazione.
+
+Il responsabile dell’Associazione una volta effettuato l’accesso tramite SPID alla piattaforma utilizzando le proprie credenziali SPID, può accedere al sistema ed effettuare le seguenti attività elencate in ordine di priorità:
+
+* editare l’anagrafica dell’Associazione:
+
+    * nome associazione
+
+    * indirizzo associazione
+
+    * sito web associazione
+
+    * email associazione
+
+    * codice fiscale associazione
+
+    * nome responsabile associazione
+
+    * email responsabile associazione
+
+    * telefono responsabile associazione
+
+    * codice fiscale associazione
+
+* abilitare referenti alla pubblicazione degli eventi per conto dell’Associazione fornendo per ognuno di essi:
+
+    * nome
+
+    * telefono
+
+    * codice fiscale
+
+    * email
+
+* pubblicare i propri eventi. Gli eventi possono essere pubblicati anche dai referenti abilitati dal responsabile dell’Associazione sulla piattaforma.
+
+.. _h667ff7725122b184e82911070267d:
+
+Ottenere le credenziali SPID
+----------------------------
+
+Per coloro che ancora non fossero in possesso dell'identità digitale SPID si riporta il link dell’Agenzia per l’Italia Digitale (AGID) che spiega passo passo la procedura per l’ottenimento di SPID: \ |LINK1|\  
 
 .. _h1f622c56151d39b411a4c6222224632:
 
@@ -89,9 +128,9 @@ Sono dati aperti (open data) quei dati che presentano le seguenti caratteristich
 
 Quindi si tratta di dati che è possibile scaricare e riusare liberamente anche per fini commerciali. Tali dati sono pubblicati per: operatori pubblici, privati o commerciali, ricercatori, analisti, organizzazioni della società civile e per chiunque abbia la necessità di questo tipo di dati da utilizzare nelle proprie attività.
 
-Tutti i dati contenuti in questa area tematica del sito sono rilasciati in formati aperti e tramite il sistema di licenze \ |LINK1|\ .
+Tutti i dati contenuti in questa area tematica del sito sono rilasciati in formati aperti e tramite il sistema di licenze \ |LINK2|\ .
 
-Le \ |LINK2|\  sono licenze standard e riconosciute internazionalmente come le licenze di riferimento per la gestione degli open data. In particolare, i dati sono rilasciati con la licenza “Creative Commons Attribution” (CC-BY) che permette l'utilizzo dei dati senza alcuna restrizione, salva la citazione della fonte, nel caso della CC-BY.
+Le \ |LINK3|\  sono licenze standard e riconosciute internazionalmente come le licenze di riferimento per la gestione degli open data. In particolare, i dati sono rilasciati con la licenza “Creative Commons Attribution” (CC-BY) che permette l'utilizzo dei dati senza alcuna restrizione, salva la citazione della fonte, nel caso della CC-BY.
 
 .. _h665d80773d2d3b3235566c333d2f621c:
 
@@ -250,9 +289,13 @@ Responsabile del trattamento dei dati è il Dirigente pro tempore del
 
 .. |LINK1| raw:: html
 
-    <a href="https://creativecommons.org/faq/" target="_blank">“Creative Commons"</a>
+    <a href="https://www.spid.gov.it/richiedi-spid" target="_blank">https://www.spid.gov.it/richiedi-spid</a>
 
 .. |LINK2| raw:: html
+
+    <a href="https://creativecommons.org/faq/" target="_blank">“Creative Commons"</a>
+
+.. |LINK3| raw:: html
 
     <a href="https://creativecommons.org/faq/" target="_blank">Creative Commons</a>
 
