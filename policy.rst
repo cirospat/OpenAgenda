@@ -27,7 +27,19 @@ Cos'è un evento e cosa una manifestazione?
 
 Per evento s'intende un singolo appuntamento rivolto ai cittadini o ad una parte di essi.
 
-Per manifestazione in questo portale si intende una serie di eventi raccolti sotto un unico cappello. Esempio: la rassegna Natale a Palermo è costituita dall'insieme degli eventi del periodo natalizio condivise con il Comune di Palermo.
+Per manifestazione in questo portale si intende una serie di eventi raccolti sotto un unico cappello. Esempi: 
+
+* la rassegna Natale a Palermo è costituita dall'insieme degli eventi del periodo natalizio condivise con il Comune di Palermo;
+
+* la Via dei Tesori;
+
+* gli eventi dei festeggiamenti in onore della santa protettrice di Palermo, Santa Rosalia;
+
+* la Via dei Librai;
+
+* gli eventi del Teatro di Verdura;
+
+* ecc.
 
 .. _h434e504ba60677678784524d426951:
 
