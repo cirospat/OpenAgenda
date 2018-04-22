@@ -128,23 +128,31 @@ Il responsabile dell’Associazione una volta effettuato l’accesso tramite SPI
 Open Data
 =========
 
-I dati relativi ad eventi ed associazioni gestiti dal sito ……………. sono disponibili con licenza compatibile per gli Open Data.
+I dati relativi ad eventi ed associazioni gestiti dal sito Open Agenda sono disponibili con licenza compatibile per gli Open Data.
 
 Per Open Data (o dati aperti) si intendono degli insiemi di dati di varia natura che possono essere espressi e archiviati in formati digitali.
 
 Sono dati aperti (open data) quei dati che presentano le seguenti caratteristiche:
 
-* sono disponibili secondo i termini di una licenza che ne permetta l'utilizzo da parte di chiunque, anche per finalità commerciali, in formato disaggregato;
+#. sono disponibili secondo i termini di una licenza che ne permetta l'utilizzo da parte di chiunque, anche per finalità commerciali, in formato disaggregato;
 
-* sono accessibili attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, in formati aperti ai sensi della lettera a), sono adatti all'utilizzo automatico da parte di programmi per elaboratori e sono provvisti dei relativi metadati;
+#. sono accessibili attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, in formati aperti ai sensi del punto 1);
 
-* sono resi disponibili gratuitamente attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, oppure sono resi disponibili ai costi marginali sostenuti per la loro riproduzione e divulgazione.
+#. sono adatti all'utilizzo automatico da parte di programmi per elaboratori
+
+#. sono provvisti dei relativi metadati;
+
+#. sono resi disponibili gratuitamente attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, oppure sono resi disponibili ai costi marginali sostenuti per la loro riproduzione e divulgazione.
 
 Quindi si tratta di dati che è possibile scaricare e riusare liberamente anche per fini commerciali. Tali dati sono pubblicati per: operatori pubblici, privati o commerciali, ricercatori, analisti, organizzazioni della società civile e per chiunque abbia la necessità di questo tipo di dati da utilizzare nelle proprie attività.
 
-Tutti i dati contenuti in questa area tematica del sito sono rilasciati in formati aperti e tramite il sistema di licenze \ |LINK2|\ .
+Tutti i dati contenuti in questa piattaforma sono rilasciati in formato aperto e tramite il sistema di licenze \ |LINK2|\ .
 
-Le \ |LINK3|\  sono licenze standard e riconosciute internazionalmente come le licenze di riferimento per la gestione degli open data. In particolare, i dati sono rilasciati con la licenza “Creative Commons Attribution” (CC-BY) che permette l'utilizzo dei dati senza alcuna restrizione, salva la citazione della fonte, nel caso della CC-BY.
+Le \ |LINK3|\  sono licenze standard e riconosciute internazionalmente come le licenze di riferimento per la gestione degli open data. 
+
+In particolare, i dati sono rilasciati con la licenza “Creative Commons Attribution” (CC-BY) che permette l'utilizzo dei dati senza alcuna restrizione, salva la citazione della fonte, nel caso della CC-BY.
+
+I dati inseriti nel portale Open Agenda saranno pubblicati come dataset nel portale open data del Comune di Palermo \ |LINK4|\ . Il dataset degli eventi culturali della città di Palermo, viene indicizzato dal portale nazionale dei dati aperti \ |LINK5|\  e dal portale europeo dei dati aperti \ |LINK6|\ . In tal maniera gli eventi e le Associazioni culturali di Palermo saranno visibili e conosciuti/e da un vasto pubblico facilitando, così, le Associazioni nella costruzione di relazioni internazionali con altre Associazioni analoghe in altri paesi dell’Unione Europea.
 
 |
 
@@ -311,7 +319,7 @@ Titolare del trattamento dei dati personali è il Comune di Palermo, nella perso
 Responsabile del trattamento dati
 =================================
 
-Responsabile del trattamento dei dati è la Società per i Servizi Informatici del Comune di Palermo, SISPI SpA \ |LINK4|\ . 
+Responsabile del trattamento dei dati è la Società per i Servizi Informatici del Comune di Palermo, SISPI SpA \ |LINK7|\ . 
 
 
 .. bottom of content
@@ -333,6 +341,18 @@ Responsabile del trattamento dei dati è la Società per i Servizi Informatici d
     <a href="https://creativecommons.org/faq/" target="_blank">Creative Commons</a>
 
 .. |LINK4| raw:: html
+
+    <a href="http://opendata.comune.palermo.it" target="_blank">http://opendata.comune.palermo.it</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://www.dati.gov.it/" target="_blank">https://www.dati.gov.it/</a>
+
+.. |LINK6| raw:: html
+
+    <a href="https://www.europeandataportal.eu" target="_blank">https://www.europeandataportal.eu</a>
+
+.. |LINK7| raw:: html
 
     <a href="http://sispi.it" target="_blank">http://sispi.it</a>
 
