@@ -123,14 +123,14 @@ Il responsabile dell’Associazione una volta effettuato l’accesso tramite SPI
 
 |
 
-.. _h1f622c56151d39b411a4c6222224632:
+.. _h104c167e25261f631fb543a6979331c:
 
-OPENDATA
-========
+Open Data
+=========
 
-I dati relativi ad eventi ed associazioni gestiti dal sito ……………. sono disponibili con licenza compatibile per gli Opendata.
+I dati relativi ad eventi ed associazioni gestiti dal sito ……………. sono disponibili con licenza compatibile per gli Open Data.
 
-Per Opendata (o dati aperti) si intendono degli insiemi di dati di varia natura che possono essere espressi e archiviati in formati digitali.
+Per Open Data (o dati aperti) si intendono degli insiemi di dati di varia natura che possono essere espressi e archiviati in formati digitali.
 
 Sono dati aperti (open data) quei dati che presentano le seguenti caratteristiche:
 
