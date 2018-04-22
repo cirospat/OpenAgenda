@@ -61,12 +61,12 @@ Le manifestazioni e gli eventi pubblicizzati sono quelli organizzati dal Comune 
 
 E' possibile pubblicare, in via esemplificativa e non esaustiva: mostre e inaugurazioni, spettacoli, concerti, conferenze, incontri e convegni, workshop; eventi enogastronomici, festival, presentazioni libri, cinema/film, iniziative ed eventi sportivi, ricreativi, ludici e tecnologici (es. Hackathon, Fablab, ecc.).
 
-.. _h1b4b7c745c31405133312f312e74528:
+.. _h6247502d7bb6e25183e5b3a6c373d:
 
-Come inserire gli eventi? Accesso alla piattaforma Open Agenda grazie all’uso di SPID (Sistema Pubblico di Identità Digitale)
-=============================================================================================================================
+Come inserire gli eventi? Accesso alla piattaforma Open Agenda grazie all’uso di SPID 
+======================================================================================
 
-L’accesso alla piattaforma è possibile grazie all’uso delle credenziali di SPID, sistema pubblico di identità digitale al quale il Comune di Palermo ha aderito in ottemperanza al Piano Triennale dell’Informatica nella Pubblica Amministrazione.
+L’accesso alla piattaforma è possibile grazie all’uso delle credenziali di SPID, (sistema pubblico di identità digitale) al quale il Comune di Palermo ha aderito in ottemperanza al Piano Triennale dell’Informatica nella Pubblica Amministrazione.
 
 Il responsabile dell’Associazione una volta effettuato l’accesso tramite SPID alla piattaforma utilizzando le proprie credenziali SPID, può accedere al sistema ed effettuare le seguenti attività elencate in ordine di priorità:
 
