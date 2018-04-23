@@ -55,6 +55,13 @@ Per manifestazione in questo portale si intende una serie di eventi raccolti sot
     * Iniziative discriminatorie sugli orientamenti politici, sessuali, religiosi degli individui.
     L’attività quotidiana di moderazione da parte del personale comunale, una volta verificata la violazione di una di queste regole, provvederà alla cancellazione dell’account dell’Associazione responsabile della violazione, avviando contemporaneamente le procedure necessarie per la denuncia alle Autorità competenti.
 
+
+..  Attention:: 
+
+    \ |STYLE0|\ 
+    Il Responsabile dei contenuti pubblicati sulla piattaforma degli eventi culturali OpenAgenda è il Responsabile dell’Associazione anche nei casi in cui l’evento è pubblicato dal Referente dell’Associazione. Ogni situazione in cui è rilevabile una non attendibilità delle informazioni sull’evento, la responsabilità è da addebitarsi univocamente al Responsabile dell’Associazione censito nella piattaforma. Il Comune di Palermo effettua a campione controlli e manleva ogni responsabilità sulla veridicità delle informazioni.
+    Se a seguito di controlli effettuati dal Comune di Palermo dovessero riscontrarsi ripetute situazioni di inattendibilità delle informazioni riportate negli eventi pubblicati, l’account dell’Associazione verrà bloccato nella piattaforma Open Agenda e avviate le procedure ritenute necessarie dall’Amministrazione Comunale a tutela del buon andamento del servizio.
+
 |
 
 .. _h3f356d4275243f7a4368662a2a801f18:
@@ -78,7 +85,7 @@ E' possibile pubblicare, in via esemplificativa e non esaustiva: mostre e inaugu
 Come inserire gli eventi? Accesso alla piattaforma Open Agenda grazie all’uso di SPID 
 ======================================================================================
 
-L’accesso alla piattaforma è possibile grazie all’uso delle credenziali di SPID, (\ |STYLE0|\ ) al quale il Comune di Palermo ha aderito in ottemperanza al Piano Triennale dell’Informatica nella Pubblica Amministrazione.
+L’accesso alla piattaforma è possibile grazie all’uso delle credenziali di SPID, (\ |STYLE1|\ ) al quale il Comune di Palermo ha aderito in ottemperanza al Piano Triennale dell’Informatica nella Pubblica Amministrazione.
 
 Il responsabile dell’Associazione una volta effettuato l’accesso tramite SPID alla piattaforma utilizzando le proprie credenziali SPID, può accedere al sistema ed effettuare le seguenti attività elencate in ordine di priorità:
 
@@ -112,7 +119,7 @@ Il responsabile dell’Associazione una volta effettuato l’accesso tramite SPI
 
     * email
 
-* pubblicare i propri eventi. Gli eventi possono essere pubblicati anche dai referenti abilitati dal responsabile dell’Associazione sulla piattaforma.
+* pubblicare i propri eventi. Gli eventi possono essere pubblicati sulla piattaforma anche dai referenti abilitati dal responsabile dell’Associazione.
 
 |
 
@@ -174,7 +181,7 @@ Termini di utilizzo
 
 l servizio "Open Agenda" è una iniziativa del Comune di Palermo  finalizzata a promuovere le iniziative  e gli eventi culturali e ricreativi -  propri e delle associazioni del territorio. L’Amministrazione, nell’ambito del Programma Operativo Città Metropolitane 2014-2020, Asse 1 Agenda Digitale, Piattaforma ICT Cultura e Tempo LIbero, intende mettere a disposizione della comunità un servizio online per la valorizzazione degli eventi culturali locali, fornendo alle Associazioni una vetrina di conoscenza online.
 
-Per partecipare le Associazioni con sede nel Comune di Palermo possono registrarsi al sito …………………. e in caso di necessità contattare gli uffici comunali al seguente indirizzo e-mail: ………………..
+Per partecipare le Associazioni con sede nel Comune di Palermo possono registrarsi sulla Piattaforma openagenda.comune.palermo.it e in caso di necessità contattare gli uffici comunali al seguente indirizzo e-mail: ………………..
 
 |
 
@@ -325,7 +332,9 @@ Responsabile del trattamento dei dati è la Società per i Servizi Informatici d
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Sistema Pubblico di Identità Digitale**
+.. |STYLE0| replace:: **Responsabilità delle informazioni contenute negli eventi pubblicati.**
+
+.. |STYLE1| replace:: **Sistema Pubblico di Identità Digitale**
 
 
 .. |LINK1| raw:: html
